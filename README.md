@@ -8,3 +8,8 @@
 
  * IDEs: Visal Studio 2015, C++ Builder
  * Programming languages: C/C++,C# 
+
+### **Details:**
+
+* [Lab#1](https://github.com/DumbravaAlexandru/MIDPS/tree/master/Lab%231)
+ 
