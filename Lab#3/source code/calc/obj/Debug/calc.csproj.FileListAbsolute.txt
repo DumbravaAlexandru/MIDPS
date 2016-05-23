@@ -1,0 +1,18 @@
+c:\users\alex\documents\visual studio 2015\Projects\calc\calc\bin\Debug\calc.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\calc\calc\bin\Debug\calc.exe
+c:\users\alex\documents\visual studio 2015\Projects\calc\calc\bin\Debug\calc.pdb
+c:\users\alex\documents\visual studio 2015\Projects\calc\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\calc\calc\obj\Debug\calc.Caculator.resources
+c:\users\alex\documents\visual studio 2015\Projects\calc\calc\obj\Debug\calc.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\calc\calc\obj\Debug\calc.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\calc\calc\obj\Debug\calc.exe
+c:\users\alex\documents\visual studio 2015\Projects\calc\calc\obj\Debug\calc.pdb
+L:\calc\calc\bin\Debug\calc.exe.config
+L:\calc\calc\obj\Debug\calc.exe
+L:\calc\calc\obj\Debug\calc.pdb
+L:\calc\calc\bin\Debug\calc.exe
+L:\calc\calc\bin\Debug\calc.pdb
+L:\calc\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
+L:\calc\calc\obj\Debug\calc.Caculator.resources
+L:\calc\calc\obj\Debug\calc.Properties.Resources.resources
+L:\calc\calc\obj\Debug\calc.csproj.GenerateResource.Cache
