@@ -17,5 +17,6 @@
 
 
 ### **Details:**	
-*[Codul Sursa](https://github.com/DumbravaAlexandru/MIDPS/tree/master/Lab%233/source%20code)
-*[Raportul](https://github.com/DumbravaAlexandru/MIDPS/blob/master/Lab%233/raport_lab2.pdf)
+
+* [Codul Sursa](https://github.com/DumbravaAlexandru/MIDPS/tree/master/Lab%233/source%20code)
+* [Raportul](https://github.com/DumbravaAlexandru/MIDPS/blob/master/Lab%233/raport_lab2.pdf)
