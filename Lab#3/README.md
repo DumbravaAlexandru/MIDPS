@@ -13,7 +13,7 @@
 ### **Task-urile realizate:**
  
  * Realizarea unui simplu GUI Calculator
- * Operatiile simple: +, -, *, /, putere, radical, inversareSemn(*/-), operatiile cu numere zecimale
+ * Operatiile simple: +, -, *, /, putere, radical, inversareSemn(+/-), operatiile cu numere zecimale
 
 
 ### **Details:**	
